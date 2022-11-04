@@ -1,0 +1,3 @@
+# AOSPA for Xiaomi MiAtoll
+
+Paranoid Android build mirrors for miatoll
